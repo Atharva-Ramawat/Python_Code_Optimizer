@@ -1,6 +1,6 @@
 # AI Code Optimizer v1.0.1
 
-This extension uses a powerful cloud-hosted AI model to refactor and optimize your selected Python code.
+This extension is available on vs cide uses a powerful cloud-hosted AI model to refactor and optimize your selected Python code.
 
 ## Features
 
