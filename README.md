@@ -1,4 +1,4 @@
-# AI Code Optimizer v1.0.1
+# Python Code Optimizer 
 
 This extension is available on vs code uses a powerful cloud-hosted AI model to refactor and optimize your selected Python code.
 
